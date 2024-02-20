@@ -53,7 +53,6 @@ while (true)
     
     else if(user_input == "2")
     {
-        string count = Console.ReadLine();
         Console.WriteLine("Counter mode; Use '+' for increment and '-' for decrement");
         Console.WriteLine("----------------");
         Console.WriteLine("Enter counter value:");
